@@ -1,9 +1,9 @@
 ---
-title: TITLE
+title: Blog Test
 date: 2025-01-15 19:01 +0100
 categories: [Blog]
-tags: [test]     # TAG names should always be lowercase
-author: <1>                     # for single entry
+tags: [random]     # TAG names should always be lowercase
+author: miao                    # for single entry
 description: Testing if the blog works properly.
 toc: true
 comments: true
@@ -26,9 +26,9 @@ I write thoughts, life experiences and observations.
 
 I am from China, a student who lives currently in Berlin and tries to finish his study of BSc EE at Technical University of Berlin.
 
-## Conclusion
+## The end of this blog, yet beginning of something new
 
 This is the frist try of the blog, would be happy to see that it can work with just one try.
----
+
 
 *This post is licensed under CC BY 4.0 by the author.*
